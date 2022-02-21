@@ -10,4 +10,4 @@ Components: <br>
 - [ ] Vertical Slider / ComponentUtils
 - [ ] Horizontal Slider / ComponentUtils
 - [ ] Built-in Debug Console / DebugUtils
-- [ ] SDebugHook / Debugutils
+- [ ] SDebugHooK / Debugutils
