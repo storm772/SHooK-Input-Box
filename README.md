@@ -5,7 +5,7 @@ That's one of the window components for the complete SWindowHooK project that  i
 Components: <br>
 - [x] Text Rendering / RenderUtils
 - [x] Image Rendering / RenderUtils
-- [x] Input Box / ComponentUtils
+- [x] __Input Box / ComponentUtils__
 - [ ] Button / ComponentUtils
 - [ ] Vertical Slider / ComponentUtils
 - [ ] Horizontal Slider / ComponentUtils
